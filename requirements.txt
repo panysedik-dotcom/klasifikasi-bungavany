@@ -1,0 +1,8 @@
+streamlit
+numpy
+opencv-python==4.8.1.78
+mahotas
+scikit-image
+Pillow
+lightgbm
+
